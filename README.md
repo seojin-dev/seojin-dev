@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [서진이의 웹사이트](www.seojin.tech)
+  [서진이의 웹사이트](https://www.seojin.tech)
   
 </div>
 

@@ -5,8 +5,11 @@
 # 🌟 안녕하세요! 초등학생 개발자 김서진입니다! 
 
 <div align="center">
+  📄 My Websites
+  <p></p>
   
-  [서진이의 웹사이트](https://www.seojin.tech)
+  [![서진이의 웹사이트](https://img.shields.io/badge/Website-seojin.tech-blue?style=for-the-badge)](https://www.seojin.tech)
+  [![서석](https://img.shields.io/badge/Website-seoseok.live-blue?style=for-the-badge)](https://seoseok.live)
   
 </div>
 
@@ -44,6 +47,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+</div>
+
+## 📌 Popular Repositories
+<div align="center">
+  
+  [![Seoseok](https://github-readme-stats.vercel.app/api/pin/?username=seojin-dev&repo=Seoseok&theme=tokyonight)](https://github.com/seojin-dev/Seoseok)
+  [![seojin.tech](https://github-readme-stats.vercel.app/api/pin/?username=seojin-dev&repo=seojin.tech&theme=tokyonight)](https://github.com/seojin-dev/seojin.tech)
+  [![Italy-Booth-School-Fair](https://github-readme-stats.vercel.app/api/pin/?username=seojin-dev&repo=Italy-Booth-School-Fair&theme=tokyonight)](https://github.com/seojin-dev/Italy-Booth-School-Fair)
+  
 </div>
 
 ## 🌈 My Goals 

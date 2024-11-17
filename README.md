@@ -9,7 +9,7 @@
   <p></p>
   
   [![서진이의 웹사이트](https://img.shields.io/badge/Website-seojin.tech-blue?style=for-the-badge)](https://www.seojin.tech)
-  [![서석](https://img.shields.io/badge/Website-seoseok.live-blue?style=for-the-badge)](https://seoseok.live)
+  [![서석](https://img.shields.io/badge/Website-seoseok.site-blue?style=for-the-badge)](https://seoseok.site)
   
 </div>
 
